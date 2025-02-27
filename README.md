@@ -23,6 +23,10 @@ This project implements machine learning models to predict the likelihood of str
    - Recursive tree building with configurable depth
    - Information gain optimization
 
+![Screenshot 2025-02-27 140403](https://github.com/user-attachments/assets/b2df591f-4cb0-4488-9ae2-8f364d220237)
+![Screenshot 2025-02-27 140441](https://github.com/user-attachments/assets/fbb47e76-6ef4-46c7-9aab-5388294efe28)
+
+
 3. **Novelty Detection**
    - Implementation for anomaly detection in medical data
    - Specialized approach for imbalanced medical datasets
